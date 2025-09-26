@@ -24,10 +24,3 @@ Aquarium is a modular, high-performance browser engineered for speed, config aut
 - README-driven crash/recovery documentation
 
 ---
-
-## 🛠️ Installation
-
-Clone the repo:
-```bash
-git clone https://github.com/aquariadev/aquarium.git
-cd aquarium
